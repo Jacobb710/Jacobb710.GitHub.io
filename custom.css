@@ -1,0 +1,113 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+body {
+    border-right: solid;
+    border-left: solid;
+    border-width: 25px;
+    font-family: Playpen Sans, sans-serif;
+}
+
+h1 {
+    color: black;
+    border-bottom: solid;
+    padding-bottom: 20px;
+}
+
+.lead1 {
+    color: black;
+    padding-top: 10px;
+    padding-left: 12px;
+    font-size: 16px;
+    border-right: solid;
+    border-left: solid;
+    font-size: 20px;
+}
+
+.lead2, .lead3, .lead4 {
+    font-size: 20px;
+}
+
+.ah {
+    border-bottom: solid;
+    padding-bottom: 20px;
+}
+
+.eh {
+   border-bottom: solid;
+   padding-bottom: 20px;
+}
+
+.eh {
+    border-bottom: solid;
+    padding-bottom: 20px;
+}
+
+.carousel-control-prev-icon {  
+    background-color: black; 
+}
+.carousel-control-next-icon { 
+    background-color: black; 
+}
+
+.hero {
+    width: 100%
+}
+
+.mask {
+    background-color: rgba(0,0,0,0.6)
+}
+
+#hero1 .carousel-item img {  
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    height:40vh;
+  }
+
+  #hero2 .carousel-item img {  
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    height:30vh;
+  }
+
+  #hero3 .carousel-item img {  
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    height:50vh;
+  }
+
+ .nav-item {
+    font-family: helvetica;
+ }
+
+.add-piano-button {
+    padding-right: 685px;
+}
+
+.add-eguitar-button {
+    padding-right: 620px;
+}
+
+.add-aguitar-button {
+    padding-right: 620px;
+}
+
+#hero1, #hero2, #hero3 {
+    font-style: italic;
+    font-size: 20px;
+    border-bottom: solid;
+}
+
+#about {
+    font-size: 20px;
+}
+
+#contact {
+    font-size: 20px;
+}
+
+.awesome {
+    font-size: 50px;
+}
+
