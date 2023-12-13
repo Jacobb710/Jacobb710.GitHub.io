@@ -19,7 +19,7 @@ h1 {
     bottom: 0px;
  }
 /* button position */
- .btn-group {
+.btn-group {
     position: absolute;
     margin-left: -50px;
     left: 25%;

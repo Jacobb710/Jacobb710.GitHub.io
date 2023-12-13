@@ -1,5 +1,10 @@
+/* Body Edits */
 body, html {
-    height: 100%
+    height: 100%;
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Preahvihear', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
 }
 
 /* The hero image */
@@ -27,11 +32,13 @@ body, html {
   color: white;
 }
 
+/* Link edits */
 a {
-    text-decoration: none;
-    color: black;
+    text-decoration: underline;
+    color: white;
 }
 
+/* Header edits */
 h1 {
   background-color: black;
   color: white;

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'CooperBlack';}
+	.st1{font-size:120px;}
+	.st2{clip-path:url(#SVGID_00000181767460445082007160000013944081673514722712_);}
+	.st3{clip-path:url(#SVGID_00000097470253014201181410000002702903262505443981_);}
+	.st4{fill:none;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'TrashHand';}
+	.st7{font-size:30px;}
+</style>
+<g>
+	<g>
+		<defs>
+			<text id="SVGID_1_" transform="matrix(1 0 0 1 54.5405 133.8545)" class="st0 st1">Worry Less</text>
+		</defs>
+		<defs>
+			
+				<text id="SVGID_00000093882823844854506890000017657259937214250643_" transform="matrix(1 0 0 1 54.5405 277.8545)" class="st0 st1">Live More</text>
+		</defs>
+		<clipPath id="SVGID_00000016754517424435748030000000968425147772249503_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<clipPath id="SVGID_00000101076122373601745450000000701654826501283997_" style="clip-path:url(#SVGID_00000016754517424435748030000000968425147772249503_);">
+			<use xlink:href="#SVGID_00000093882823844854506890000017657259937214250643_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000101076122373601745450000000701654826501283997_);">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="4000" height="6000" xlink:href="6EB2B913.jpeg"  transform="matrix(0.2914 0 0 0.2914 -330 -809)">
+			</image>
+		</g>
+	</g>
+</g>
+<image style="overflow:visible;" width="4383" height="2620" xlink:href="../../../Downloads/set-black-hoodies-front-back.jpg"  transform="matrix(0.3803 0 0 0.3803 126.5316 41.7825)">
+</image>
+<rect x="512.9" y="421.7" class="st4" width="254.9" height="91.5"/>
+<text transform="matrix(1 0 0 1 512.8647 438.2593)" class="st5 st6 st7">Worry LEss Live More</text>
+</svg>
